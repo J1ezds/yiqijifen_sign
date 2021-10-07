@@ -14,6 +14,9 @@ ps：脚本写的很烂，大佬轻喷。
 
 5、运行：`python sign_in.py`
 
+![运行结果.png](https://i.loli.net/2021/10/07/mx1yBLZ4UGIQ2aS.png)
+
+
 ## 如何替换脚本里面的参数为自己的？
 
 这边使用的是fd，也可以使用其他抓包软件
@@ -22,5 +25,5 @@ ps：脚本写的很烂，大佬轻喷。
 
 ![抓包.png](https://i.loli.net/2021/10/07/m2crfLF3XvhgInd.png)
 
-把第一个包里面的 `X-PointsShop-Token` 复制出来，替换到脚本里面即可
+把包里面的 `X-PointsShop-Token` 复制出来，替换到脚本里面即可
 
