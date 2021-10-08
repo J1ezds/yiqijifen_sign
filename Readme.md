@@ -26,4 +26,5 @@ ps：脚本写的很烂，大佬轻喷。
 ![抓包.png](https://i.loli.net/2021/10/07/m2crfLF3XvhgInd.png)
 
 把包里面的 `X-PointsShop-Token` 复制出来，替换到脚本里面即可
+（如果第一次登录，包里面没有token的话，就关闭小程序重新进就有了）
 
