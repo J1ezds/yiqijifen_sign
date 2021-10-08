@@ -14,7 +14,7 @@ ps：脚本写的很烂，大佬轻喷。
 
 5、运行：`python sign_in.py`
 
-![运行结果.png](https://i.loli.net/2021/10/07/mx1yBLZ4UGIQ2aS.png)
+![运行结果.png](https://i.loli.net/2021/10/08/bRdX2QZUqCjlgh4.png)
 
 
 ## 如何替换脚本里面的参数为自己的？
